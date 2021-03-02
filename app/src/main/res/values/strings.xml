@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="lang">English</string>
+    <string name="skip">skip</string>
+    <string name="login">Login or Create an account</string>
+    <string name="help">Need help?</string>
+    <string name="info">For verification, an SMS will be sent from your Mobile Number. Standard operator charges may apply. By proceeding you agree to our Terms and Conditions and Privacy Policy</string>
+    <string name="button">Proceed Securely</string>
+    <string name="otp">Enter OTP</string>
 </resources>

@@ -12,7 +12,7 @@
         android:layout_width="500dp"
         android:layout_height="50dp"
         android:gravity="center"
-        android:text="Enter OTP"
+        android:text="@string/otp"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
