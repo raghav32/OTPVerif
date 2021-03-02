@@ -28,9 +28,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         auth=FirebaseAuth.getInstance()
-        var Login=findViewById<Button>(R.id.button)
+        val Login=findViewById<Button>(R.id.button)
 
-        var currentUser = auth.currentUser
+        val currentUser = auth.currentUser
                 if(currentUser != null) {
                     startActivity(Intent(applicationContext, Home::class.java))
                     finish()

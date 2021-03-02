@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="txtSize1">20sp</dimen>
+ <dimen name="txtSize2">12sp</dimen>
+    <dimen name="marginLeft">10dp</dimen>
+    <dimen name="marginRight">10dp</dimen>
+    <dimen name="ht1">50dp</dimen>
+    <dimen name="ht2">30dp</dimen>
+    <dimen name="padding">10dp</dimen>
+</resources>
